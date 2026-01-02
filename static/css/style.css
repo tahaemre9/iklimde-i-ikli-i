@@ -1,0 +1,25 @@
+.head_img {
+    display: flex;
+    justify-content: space-between; /* yazı solda, resim sağda */
+    align-items: center;
+    padding: 20px;
+}
+
+.head_img {
+    margin-left: 20px;
+}
+head{
+    background-color: rgb(255, 255, 255);
+}
+
+body {
+    background-color: rgb(255, 255, 255);
+}
+h2 {
+    margin-top: 30px;
+    color: #2c3e50;
+}
+p1 {
+    display: block;
+}
+
